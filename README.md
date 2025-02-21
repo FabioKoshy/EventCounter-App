@@ -30,6 +30,7 @@ With **customizable event names**, a detailed **history log**, and **persistent 
 ### **Try It Online!** 🚀
 No need to install anything! You can test the app directly in your browser:
 👉 **[Click here to run the app](https://appetize.io/app/b_z5aimjfz2ijemdgncsrwe2pwvm)**
+The app will take to my setting page where you will need to name your event/counter/task first by selecting the menu bar and then get started!
 
 ### **Install on Your Device (APK Download)**
 1. **Download the APK** from the latest [GitHub Releases](https://github.com/FabioKoshy/EventCounter-App/releases).
