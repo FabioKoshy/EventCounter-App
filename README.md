@@ -25,6 +25,18 @@ With **customizable event names**, a detailed **history log**, and **persistent 
 
 ---
 
+## 🖼 UI Screenshots
+
+| Home Page | Max Count Reached | Show Count Page |
+|-----------|-------------------|------------------|
+| ![Home](https://github.com/FabioKoshy/EventCounter-App/blob/main/ScreenShots/Home%20Page.png) | ![Max Count](https://github.com/FabioKoshy/EventCounter-App/blob/main/ScreenShots/Max%20Count%20reached%20notification.png) | ![Show Count](https://github.com/FabioKoshy/EventCounter-App/blob/main/ScreenShots/Show%20Count%20page.png) |
+
+| Settings Page |
+|---------------|
+| ![Settings](https://github.com/FabioKoshy/EventCounter-App/blob/main/ScreenShots/Edit%3ASettings%20page.png) |
+
+---
+
 ## 🛠 Installation & Setup
 
 ### **Try It Online!** 🚀
